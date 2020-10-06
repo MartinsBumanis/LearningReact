@@ -1,3 +1,5 @@
+Components, reusability, nesting, props
+https://imgur.com/a/TOqaKLs
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
